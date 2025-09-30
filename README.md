@@ -5,7 +5,7 @@
   <em>Apasionado por eso y por aquello</em>
 </p>
 
----
+
 
 ## GitHub Stats
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 
-## Stack:
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -1,8 +1,8 @@
-<h1 align="center">Hi :trollface:, I'm Carlos</h1>
+<h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Data Engineer Student 📊 at Universidad de Zaragoza</h3>
 
 <p align="center">
-  <em>Apasionado por eso y por aquello</em>
+  <em>Apasionado por eso :shipit:: y por aquello :trollface:</em>
 </p>
 
 

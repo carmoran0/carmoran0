@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer Student 📊 at Universidad de Zaragoza</h3>
 
 <p align="center">
-  <em>Apasionado por eso :shipit: y por aquello :trollface:</em>
+  <em>Apasionado por :trollface::trollface::trollface:</em>
 </p>
 
 

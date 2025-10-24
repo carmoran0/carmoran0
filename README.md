@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Data Engineer Student 📊 at Universidad de Zaragoza</h3>
 
-<p align="center">
-  <em>Apasionado por :trollface::trollface::trollface:</em>
+<p align="center">  
+  Aqui puedes encontrar algunas cosas que hago en mi tiempo libre
+  <br>
+  <em>"Apasionado por :trollface::trollface::trollface:"</em>
 </p>
 
 
-
-## GitHub Stats
+<h2 align="center">About meee</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmoran0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmoran0&hide_title=true&card_width=750&langs_count=10&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
-
-## Stack
+<h3 align="center">Stack</h3>  
 
 <p align="center">
   <a href="https://skillicons.dev">

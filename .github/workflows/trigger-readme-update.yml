@@ -1,0 +1,19 @@
+name: Trigger site README update
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'  # Solo cuando cambie el README
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger carmoran0.github.io workflow
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.SITE_UPDATE_TOKEN }}" \
+            https://api.github.com/repos/carmoran0/carmoran0.github.io/dispatches \
+            -d '{"event_type":"readme-updated"}'
